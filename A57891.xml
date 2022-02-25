@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rump despairing, or, The Rumps proverbs and lamentations published to promote the repentance of such as have been, and to deterre all others from ever proving, rebels to their prince and country.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57891</idno>
+            <idno type="STC">Wing R2271</idno>
+            <idno type="STC">ESTC R29340</idno>
+            <idno type="EEBO-CITATION">11076901</idno>
+            <idno type="OCLC">ocm 11076901</idno>
+            <idno type="VID">46266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1431:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rump despairing, or, The Rumps proverbs and lamentations published to promote the repentance of such as have been, and to deterre all others from ever proving, rebels to their prince and country.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46266:1"/>
+            <!-- PDF PAGE 45 -->
+            <pb facs="tcp:46266:1"/>
+            <!-- PDF PAGE 45 -->
+            <pb facs="tcp:46266:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:46266:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <q>
+               <p>Vae Vae Vae Vae Vae Vae Vae mihi Vae Vae.</p>
+            </q>
+            <p>THE RUMP <hi>DESPARING,</hi> OR The Rumps Proverbs, AND Lamentations.</p>
+            <p>Publiſhed to promote the Repentance of ſuch as have been, and to deterre all others from ever proving Rebels to their Prince and Country.</p>
+            <p>LONDON; Printed in the Yeare, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46266:3"/>
+            <!-- PDF PAGE 47 -->
+            <head>The Rump deſpairing, &amp;c.</head>
+            <sp>
+               <speaker>Sir Henry Vane.</speaker>
+               <p>
+                  <seg rend="decorInit">H</seg>OW now my Friends, what in your dumps, the Proverb ſaith, <hi>It is a merry World when Knaves meet,</hi> and I am ſure that there is none of us here, <hi>but hath either a Foole in his ſleeve, or a Knave in his Doublet,</hi> come why ſhould we grieve thus, <hi>a pound of ſorrow will never pay penny of Debt,</hi> you know that all we have came from others, and will now goe to others, and let it e'ne goe and be hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Arthur,</speaker>
+               <p>Oh Sir <hi>Henry,</hi> ſorrow hath quite beſot<g ref="char:EOLhyphen"/>ted me, I was meditating on that Proverb, <hi>A Wall with<g ref="char:EOLhyphen"/>out a Croſſe, and a Knight without money is abuſed by every one.</hi> I have been a grand cauſe of the firſt, but now I ſhall I feare pay <hi>ſhot and lot too,</hi> would it not grieve a Man that hath had his choice of all the fat of the Land, to feare his being brought to <hi>powdered Beefe without muſtard,</hi> Oh the very thoughts of this would make a wiſer Man
+<pb n="2" facs="tcp:46266:3"/>
+                  <!-- PDF PAGE 47 -->then I mad. My high ſpirit hath all this while fed upon the revenues of other Mens wealth, but muſt now I feare be contented with leſſe then that I might before my villanies call my owne, and you know <hi>Pride and Poverty make a double affliction.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir H.</speaker>
+               <p>We may ene thank our ſelves for it, <hi>a pittifull Mother makes a ſcab'd Daughter, as we have brewed ſo we muſt bake,</hi> and moſt now expect <hi>to be paid in our own coine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tichb.</speaker>
+               <p>What meanes Sir <hi>Harry</hi> by this miſcellany of Proverbs, this truly is a new way of diſcourſe which I never learned either from my Maſter <hi>Oliver,</hi> or in the Committee of Safety, but ſince you will Dialogue, I am content, and I think my <hi>fooles bolt will be ſoon enough ſhot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Hen. V.</hi>
+               </speaker>
+               <p>Then <hi>away with it quoth Waſhington,</hi> But what think you <hi>Harry Martin</hi> of our preſent condi<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>H. Martin.</speaker>
+               <p>Truly I think we are <hi>all as fitting for the Divell, as a pudding for a Friers mouth,</hi> and to him I make no queſtion we ſhall ſhortly goe.</p>
+            </sp>
+            <sp>
+               <speaker>Lord <hi>Monſon.</hi>
+               </speaker>
+               <p>
+                  <hi>Good wits jump,</hi> I am of the ſame opi<g ref="char:EOLhyphen"/>nion, for I beleeve we ſhall ſhortly be as ſure to be found in Hell, as <hi>a Gentlemans Gray-hound, and a ſalt box by the fire ſide.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Walton.</speaker>
+               <p>They have a Proverb in Spain, <hi>that every Houſe in Malagon hath a Thiefe of its owne,</hi> but if ever Houſe contained ſo many Thiefes together as the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> Houſe whilſt we were all there, I will looſe my eares; but what talk I of looſing my eares, my Head is
+<pb n="3" facs="tcp:46266:4"/>
+                  <!-- PDF PAGE 48 -->ſatisfaction too little for my Roguery; we uſe to ſay, <hi>He that kills a Man when he is drunk ſhall be hanged when he is ſober,</hi> and we that were ſo damnably drunk with the Poiſon of Rebellion, that we killed our Lord and King, muſt expect a Halter for our juſt doom and reward.</p>
+            </sp>
+            <sp>
+               <speaker>Corbet.</speaker>
+               <p>They ſay that Proverbs are true and witty ſentences, but he was a very ideot that made this, <hi>Black will not change its hew,</hi> for though I am almoſt as black as the Divell, yet I am ſure I am in a blew condition.</p>
+            </sp>
+            <sp>
+               <speaker>Desbrow.</speaker>
+               <p>I am of your opinion too my Lord, and think no otherwiſe of this. <hi>A handfull of mony is better then a buſhell of learning,</hi> for had I but been contented to have lived at home the very ſmell of learned <hi>Cambridge,</hi> would have preſerved me better then all the mony I have gotten by my Roguery.</p>
+            </sp>
+            <sp>
+               <speaker>H. Nevill.</speaker>
+               <p>But I am ſure Sir I remember a Proverb which is very true, <hi>the civill Wars of France made a Mil<g ref="char:EOLhyphen"/>lion of Atheiſts, and</hi> 30000 <hi>Witches,</hi> and I miſtake, if we have not here in England trebled the number, and I think my ſelfe no ſmall fool amongſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Peters.</speaker>
+               <p>You ſaid true Mr. <hi>Nevill,</hi> for I were no body elſe. <hi>All who come into a Church ſay not their Prayers.</hi> And though I was good at a long prayer, I am ſure my grace was ſhort enough.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>Tis a true Proverb, <hi>what is got over Devills back muſt be loſt under his Belly.</hi> By ſucceſſefull rebellion againſt my Prince I got good ſtore of Land and Lord<g ref="char:EOLhyphen"/>ſhips, and would it not greive a ſtone, that I ſhould looſe all by my unfortunate making head againſt my fellow Traitors. But Gentlemen, you have no reaſon now to
+<pb n="4" facs="tcp:46266:4"/>
+                  <!-- PDF PAGE 48 -->perſecute or laugh at me, now the game is almoſt ended, I wonder which of us ſhall be winners.</p>
+            </sp>
+            <sp>
+               <speaker>H. Martin.</speaker>
+               <p>Why ſhould you be thus ſullen Sir, what though you are impriſoned, muſt that breake your heart? Yet I confeſſe there is ſome reaſon. <hi>For a Jack<g ref="char:EOLhyphen"/>anapes cannot be merry when a clog is at his heeles.</hi> For had you not been ſo Apiſh as to imitate your Prede<g ref="char:EOLhyphen"/>ceſſor <hi>Oliver,</hi> both you and we might have ſtill been in a better condition.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>You need not meddle with the mote in my eye, you have a beame in your owne to look after, you have been the cauſe of your owne ruine, you muſt cauſe the Monk to deſtroy me, but I think the Monk is turned Fox now, and hath devoured you all like Geeſe as you are, you are here brisk with your Proverbs.</p>
+            </sp>
+            <sp>
+               <speaker>Gentlemen,</speaker>
+               <p>But methinks you might have remembred, and you above all others Mr. <hi>Nevill,</hi> that Proverb of the <hi>Italians,</hi> that you muſt alwayes keep your ſelfe, <hi>dal di<g ref="char:EOLhyphen"/>nanzi delle donne, dal dietro delle mule, and da tutti i lati de'i frati,</hi> from the belly of a Woman, the taile of a Mule, and from every ſide of a Monk; but I think you have ſmarted for your foolery ſufficiently.</p>
+            </sp>
+            <sp>
+               <speaker>Henry Martin.</speaker>
+               <p>I doe confeſſe our errour in the laſt good Sir, and doe conclude Monkes to be dangerous per<g ref="char:EOLhyphen"/>ſons, but I cannot but look in your Proverb as idle in the firſt clauſe, which diſſwades us from comming into Para<g ref="char:EOLhyphen"/>diſe it ſelfe, and from touching at that moſt pleaſant cape of good hope, my owne experience can confute you Sir in this, I have now lying in at <hi>Chelſey</hi> loving Madamo<g ref="char:EOLunhyphen"/>zell, and have been before and behind her, and yet neve<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> found any prejudice by it.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:46266:5"/>
+               <!-- PDF PAGE 49 -->
+               <speaker>Monſon.</speaker>
+               <p>Gramercy brother <hi>Harry,</hi> you and I are both of a mind, only Ladies are ſomtimes dangerous perſons, if you come before them when they have a Ladle in their hands, which I am ſure my Codshead can make affidavit to.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Arthur.</speaker>
+               <p>I wonder Sirs you can thus trifle in your mi<g ref="char:EOLhyphen"/>ſeries, but I confeſſe you may well enough be content, for you have but your deſerts. for <hi>ſcal'd Horſes are good e<g ref="char:EOLhyphen"/>nough for two ſuch ſcab'd Serving-men as you are.</hi> But though we are all Knaves, yet let's not be all Fooles, but now we are in the mire, conſider which way to get out, for my part I am reſolved never to be quiet till I have got my will, and when that will be the devill knows; there is a Proverb. <hi>Give a woman what ſhe would have, and what ſhe would have, and ſhe will be quiet.</hi> But though I had my deſire ten thouſand times fulfilled, yet I ſhould ſtill be unſatisfied, for I was born to be content with nothing; a hal<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er was my deſtiny, and that I will have before I dye.</p>
+            </sp>
+            <sp>
+               <speaker>Desborough.</speaker>
+               <p>Oh hold Sir you are too deſperate, I have been as furious as you, as male content, turbulent, and frantick, but yet am not ſo much in love with that thing called hanging, as to venture my neck I know not how; I know I have been eſteemed a foole, <hi>but Sir after wit is e<g ref="char:EOLhyphen"/>very bodies wit,</hi> and ſo I may claime ſomething in it, and for my part I conceive it better to withdraw my ſelfe, and returne to the place of my firſt habitation, for I muſt now confeſſe I am good for nothing elſe, and buſineſſe of State is no fitter for me then a ſaddle for a Sowes back.</p>
+            </sp>
+            <sp>
+               <speaker>Henry Martin.</speaker>
+               <p>You ſay very true Sir. <hi>Better a louſe in the pot then no fleſh at all;</hi> I will even to the Kings
+<pb n="6" facs="tcp:46266:5"/>
+                  <!-- PDF PAGE 49 -->Bench again, and there get me my loving Wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re at <hi>Chelſey,</hi> and ſeek in the ſweet imbraces of her to forget all State affaires, and I hope the State will forget me too.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Monſon.</speaker>
+               <p>
+                  <hi>As one Cock crowes, ſo the other followes.</hi> We have been fellow Priſoners, and fellow Whore<g ref="char:EOLhyphen"/>maſters a long time, and I am reſolved we will not part now.</p>
+            </sp>
+            <sp>
+               <speaker>Peters.</speaker>
+               <p>Well Gentlemen if you are for the Kings Bench and your Whores, then I am for <hi>White-Chappell</hi> and my Butchers wife, oh ſhe is a delicate ſoft peice of fleſh, as tender as young Lamb, and as ſweet as a Sur<g ref="char:EOLhyphen"/>loyne of roſt Beefe ſtuck with Roſemary, and truly Brethren if you intend any of you to ſcape hanging, the onely way is to be quiet, and take theſe few inſtructions and Apothegmes before we part, for I feare we ſhall not meet again till we come to Hell, and what ſweet Mor<g ref="char:EOLhyphen"/>ſells ſhall all we be for our Maſter the Devill, methinks when I look on Corbet, we are like ſo many raſhers of Bacon ready broiled for Lucifers breakfaſt, but I muſt depart, onely as I ſaid before, let me intreat you all to remember theſe few things which I ſhall give you to take notice of to each one.</p>
+               <p>
+                  <label>To you Sir <hi>Arthur.</hi>
+                  </label>
+                  <lb/>
+                  <hi>Evill gotten goods never prove well,</hi> and therefore it were better for you to get down into the Country, and look that your Biſhoprick of <hi>Durham</hi> run not away, for it was alwaies true, <hi>male parta cito dilabuntur.</hi>
+               </p>
+               <p>
+                  <label>To you Collonell <hi>Walton.</hi>
+                  </label>
+                  <lb/>
+                  <hi>An old man is unfit for a young woman,</hi> and old fool for making a new ſtate.</p>
+               <stage>
+                  <pb n="7" facs="tcp:46266:6"/>
+                  <!-- PDF PAGE 50 -->
+To <hi>Desbrow.</hi>
+               </stage>
+               <p>
+                  <hi>A Carrion Kite will never be good Hawke,</hi> nor an ig<g ref="char:EOLhyphen"/>norant Plow-Man make a good Councellour of State.</p>
+               <stage>To my Lord Monſon.</stage>
+               <p>
+                  <hi>A Scepter is one thing, and a Ladle is another,</hi> and though his Wife can tell how to uſe the one, yet he is not fit to hold the other.</p>
+               <stage>To Henry Nevill.</stage>
+               <p>
+                  <hi>He muſt needs go whom the Devill drives,</hi> the Devill hath for a long time ſet him awork, and now let him contentedly receive his wages.</p>
+               <stage>To Sir Henry Vane.</stage>
+               <p>
+                  <hi>A little wind kindles much, puts out a fire,</hi> he hath ſo whimſicall and capricious a braine that his deſignes ſtill overthrow both himſelfe and them, and therefore he and all of us had better reſolve to ſit ſtill and be patient, and perhaps the Nation may be more mercifull then we de<g ref="char:EOLhyphen"/>ſerve, and ſo farewell.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46266:6"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </body>
+   </text>
+</TEI>
